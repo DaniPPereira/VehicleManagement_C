@@ -1,6 +1,6 @@
 # VehicleManagement_C
 
-Objetivo
+Objetivo:
 Este documento deve ser visto como uma referência para uma abordagem clássica de desenvolvimento de uma
 solução de software para um problema de dimensão média. A essência deste projeto prende-se com o
 desenvolvimento de uma solução de software que permita agilizar a gestão (registo, partilha, utilização) de meios
