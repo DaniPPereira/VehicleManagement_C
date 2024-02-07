@@ -24,18 +24,20 @@ consultas de históricos, estatísticas, validações, etc.;
 <br>
 Fase 1
 <br>
-1. Definição de uma estrutura de dados dinâmica (a validar previamente com o docente), para a representação
-dos meios de mobilidade elétrica, clientes e gestores;
-2. Armazenamento/leitura dos dados em ficheiro de texto (valores de simulação) e binários (preservar dados);
-3. Inserção de novos dados (cliente/gestor/meio de mobilidade elétrica);
-4. Remoção de determinados dados (cliente/gestor/meio de mobilidade elétrica);
-5. Alteração de determinados dados (cliente/gestor/meio de mobilidade elétrica);
-6. Registo do aluguer de um determinado meio de mobilidade elétrica;
-7. Listagem dos meios de mobilidade elétrica por ordem decrescente de autonomia;
-8. Listagem dos meios de mobilidade elétrica existentes numa localização com determinado geocódigo.
+<br>
+1. Definição de uma estrutura de dados dinâmica (a validar previamente com o docente), para a representação<br>
+dos meios de mobilidade elétrica, clientes e gestores;<br>
+2. Armazenamento/leitura dos dados em ficheiro de texto (valores de simulação) e binários (preservar dados);<br>
+3. Inserção de novos dados (cliente/gestor/meio de mobilidade elétrica);<br>
+4. Remoção de determinados dados (cliente/gestor/meio de mobilidade elétrica);<br>
+5. Alteração de determinados dados (cliente/gestor/meio de mobilidade elétrica);<br>
+6. Registo do aluguer de um determinado meio de mobilidade elétrica;<br>
+7. Listagem dos meios de mobilidade elétrica por ordem decrescente de autonomia;<br>
+8. Listagem dos meios de mobilidade elétrica existentes numa localização com determinado geocódigo.<br>
 <br>
 <br>
 Fase 2
+<br>
 <br>
 1. Definição de uma estrutura de dados dinâmica para representação da localização de um conjunto de
 clientes e meios de mobilidade elétrica, recorrendo a um grafo;
