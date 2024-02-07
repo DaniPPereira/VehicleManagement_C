@@ -34,8 +34,8 @@ dos meios de mobilidade elétrica, clientes e gestores;
 7. Listagem dos meios de mobilidade elétrica por ordem decrescente de autonomia;
 8. Listagem dos meios de mobilidade elétrica existentes numa localização com determinado geocódigo.
 <br>
-Fase 2
 <br>
+Fase 2
 <br>
 1. Definição de uma estrutura de dados dinâmica para representação da localização de um conjunto de
 clientes e meios de mobilidade elétrica, recorrendo a um grafo;
