@@ -11,13 +11,13 @@ adequadas.
 Regras:
 Contemplando dois tipos de utilizadores, a saber, gestores e clientes registados, pretende-se considerar as
 funcionalidades seguintes:
-● Agilizar o aluguer dos meios de mobilidade, disponibilizando: informação sobre os meios disponíveis (tipo,
+1. Agilizar o aluguer dos meios de mobilidade, disponibilizando: informação sobre os meios disponíveis (tipo,
 carga da bateria, custo, etc); identificar a localização dos meios existentes através de geocódigo
 (what3words.com); registar o pagamento através de um saldo recarregável associado ao cliente; entre outros;
-● Permitir aos responsáveis pela plataforma (gestores) a gestão dos respetivos meios de mobilidade permitindo
+2. Permitir aos responsáveis pela plataforma (gestores) a gestão dos respetivos meios de mobilidade permitindo
 registar, alterar, cancelar, localizar e outros serviços;
-● Admitir somente clientes registados considerando o NIF, saldo, nome, morada, etc.;
-● Permitir aos gestores da plataforma a possibilidade de uma visão integrada permitindo operações como
+3. Admitir somente clientes registados considerando o NIF, saldo, nome, morada, etc.;
+4. Permitir aos gestores da plataforma a possibilidade de uma visão integrada permitindo operações como
 consultas de históricos, estatísticas, validações, etc.;
 <br>
 Fase 1
