@@ -1,0 +1,5 @@
+Braga.Porto.Lisboa
+Lisboa.Porto.Braga
+Porto.Coimbra.Lisboa
+Lisboa.Coimbra.Porto
+Atum.Frango.Manga

@@ -1,0 +1,2 @@
+Braga.Porto.Lisboa;Lisboa.Porto.Braga;10
+Lisboa.Coimbra.Porto;Braga.Porto.Lisboa;5

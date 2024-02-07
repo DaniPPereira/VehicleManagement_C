@@ -1,0 +1,3 @@
+123456789;Daniel;Igreja;20.00
+1234321;Daniel Jose Peixoto Pereira;Lugar da Igreja;0.00
+244433429;Daniel Pereira;Casa;0.00

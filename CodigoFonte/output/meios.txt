@@ -1,0 +1,2 @@
+1;Trotinete;50.00;10.00;0.40;Atum.Frango.Manga;0
+4;Trotinete;50.00;100.00;0.50;Braga.Porto.Lisboa;0
