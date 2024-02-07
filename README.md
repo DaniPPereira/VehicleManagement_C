@@ -1,13 +1,14 @@
 # VehicleManagement_C
 
 Objetivo:
-Este documento deve ser visto como uma referência para uma abordagem clássica de desenvolvimento de uma
+<br>Este documento deve ser visto como uma referência para uma abordagem clássica de desenvolvimento de uma
 solução de software para um problema de dimensão média. A essência deste projeto prende-se com o
 desenvolvimento de uma solução de software que permita agilizar a gestão (registo, partilha, utilização) de meios
 de mobilidade urbana num contexto de uma smart-city. A implementação da solução deverá considerar estruturas
 de dados dinâmicas, armazenamento em ficheiro, modularização e apresentar uma estruturação e documentação
 adequadas.
-2
+<br>
+Regras:
 Contemplando dois tipos de utilizadores, a saber, gestores e clientes registados, pretende-se considerar as
 funcionalidades seguintes:
 ● Agilizar o aluguer dos meios de mobilidade, disponibilizando: informação sobre os meios disponíveis (tipo,
@@ -18,7 +19,9 @@ registar, alterar, cancelar, localizar e outros serviços;
 ● Admitir somente clientes registados considerando o NIF, saldo, nome, morada, etc.;
 ● Permitir aos gestores da plataforma a possibilidade de uma visão integrada permitindo operações como
 consultas de históricos, estatísticas, validações, etc.;
+<br>
 Fase 1
+<br>
 1. Definição de uma estrutura de dados dinâmica (a validar previamente com o docente), para a representação
 dos meios de mobilidade elétrica, clientes e gestores;
 2. Armazenamento/leitura dos dados em ficheiro de texto (valores de simulação) e binários (preservar dados);
@@ -28,7 +31,9 @@ dos meios de mobilidade elétrica, clientes e gestores;
 6. Registo do aluguer de um determinado meio de mobilidade elétrica;
 7. Listagem dos meios de mobilidade elétrica por ordem decrescente de autonomia;
 8. Listagem dos meios de mobilidade elétrica existentes numa localização com determinado geocódigo.
+<br>
 Fase 2
+<br>
 1. Definição de uma estrutura de dados dinâmica para representação da localização de um conjunto de
 clientes e meios de mobilidade elétrica, recorrendo a um grafo;
 2. Armazenamento/leitura dos dados em ficheiro de texto (valores de simulação) e binários (preservar dados).
