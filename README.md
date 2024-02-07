@@ -9,6 +9,7 @@ de dados dinâmicas, armazenamento em ficheiro, modularização e apresentar uma
 adequadas.
 <br>
 Regras:
+<br>
 Contemplando dois tipos de utilizadores, a saber, gestores e clientes registados, pretende-se considerar as
 funcionalidades seguintes:
 1. Agilizar o aluguer dos meios de mobilidade, disponibilizando: informação sobre os meios disponíveis (tipo,
@@ -41,7 +42,6 @@ Dado a localização de um cliente, listar os meios de mobilidade elétrica de u
 num determinado raio;
 3. Calcular uma solução (adaptação do problema do caixeiro viajante) do trajeto com a menor distância a
 percorrer, com recurso a um camião, para recolha de todos os meios de mobilidade elétrica com carga da
-3
 bateria abaixo de 50%. O ponto de partida e chegada é o mesmo. A capacidade de transporte do camião é
 limitada e dependente dos tipos de meios de mobilidade transportados, pelo que poderá ser necessário efetuar
 vários circuitos de modo a completar a recolha dos referidos meios de mobilidade elétrica.
