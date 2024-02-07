@@ -15,12 +15,12 @@ Contemplando dois tipos de utilizadores, a saber, gestores e clientes registados
 funcionalidades seguintes:
 1. Agilizar o aluguer dos meios de mobilidade, disponibilizando: informação sobre os meios disponíveis (tipo,
 carga da bateria, custo, etc); identificar a localização dos meios existentes através de geocódigo
-(what3words.com); registar o pagamento através de um saldo recarregável associado ao cliente; entre outros;
+(what3words.com); registar o pagamento através de um saldo recarregável associado ao cliente; entre outros;<br>
 2. Permitir aos responsáveis pela plataforma (gestores) a gestão dos respetivos meios de mobilidade permitindo
-registar, alterar, cancelar, localizar e outros serviços;
-3. Admitir somente clientes registados considerando o NIF, saldo, nome, morada, etc.;
+registar, alterar, cancelar, localizar e outros serviços;<br>
+3. Admitir somente clientes registados considerando o NIF, saldo, nome, morada, etc.;<br>
 4. Permitir aos gestores da plataforma a possibilidade de uma visão integrada permitindo operações como
-consultas de históricos, estatísticas, validações, etc.;
+consultas de históricos, estatísticas, validações, etc.;<br>
 <br>
 Fase 1
 <br>
@@ -40,12 +40,12 @@ Fase 2
 <br>
 <br>
 1. Definição de uma estrutura de dados dinâmica para representação da localização de um conjunto de
-clientes e meios de mobilidade elétrica, recorrendo a um grafo;
+clientes e meios de mobilidade elétrica, recorrendo a um grafo;<br>
 2. Armazenamento/leitura dos dados em ficheiro de texto (valores de simulação) e binários (preservar dados).
 Dado a localização de um cliente, listar os meios de mobilidade elétrica de um determinado tipo existentes
-num determinado raio;
+num determinado raio;<br>
 3. Calcular uma solução (adaptação do problema do caixeiro viajante) do trajeto com a menor distância a
 percorrer, com recurso a um camião, para recolha de todos os meios de mobilidade elétrica com carga da
 bateria abaixo de 50%. O ponto de partida e chegada é o mesmo. A capacidade de transporte do camião é
 limitada e dependente dos tipos de meios de mobilidade transportados, pelo que poderá ser necessário efetuar
-vários circuitos de modo a completar a recolha dos referidos meios de mobilidade elétrica.
+vários circuitos de modo a completar a recolha dos referidos meios de mobilidade elétrica.<br>
