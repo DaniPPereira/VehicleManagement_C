@@ -10,6 +10,7 @@ adequadas.
 <br>
 Regras:
 <br>
+<br>
 Contemplando dois tipos de utilizadores, a saber, gestores e clientes registados, pretende-se considerar as
 funcionalidades seguintes:
 1. Agilizar o aluguer dos meios de mobilidade, disponibilizando: informação sobre os meios disponíveis (tipo,
@@ -34,6 +35,7 @@ dos meios de mobilidade elétrica, clientes e gestores;
 8. Listagem dos meios de mobilidade elétrica existentes numa localização com determinado geocódigo.
 <br>
 Fase 2
+<br>
 <br>
 1. Definição de uma estrutura de dados dinâmica para representação da localização de um conjunto de
 clientes e meios de mobilidade elétrica, recorrendo a um grafo;
